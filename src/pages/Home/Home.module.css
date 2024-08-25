@@ -1,0 +1,20 @@
+.h1 {
+  text-align: right;
+  padding-right: 80px;
+  margin: 60px 0 40px 0;
+}
+
+.ArticlesDiv {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  flex-direction: row-reverse;
+  margin-bottom: auto;
+}
+
+.container{
+  min-height:100vh;
+  display: flex;
+  flex-direction: column;
+}

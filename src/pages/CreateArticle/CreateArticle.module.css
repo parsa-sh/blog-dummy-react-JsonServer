@@ -1,0 +1,17 @@
+.container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 70px;
+    margin-bottom: auto;
+    
+}
+
+.content h1{
+    text-align: right;
+}

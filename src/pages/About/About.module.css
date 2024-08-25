@@ -1,0 +1,19 @@
+.h1 {
+  text-align: right;
+  padding-right: 80px;
+  margin: 60px 0 40px 0;
+}
+
+.p {
+  text-align: justify;
+  direction: rtl;
+  padding: 0 80px;
+  font-size: 24px;
+  margin-bottom: auto;
+}
+
+.container{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
